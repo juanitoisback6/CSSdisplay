@@ -1,0 +1,32 @@
+#container {
+
+
+    background-color: black;
+    width: 60vw;
+    height: 100vh;
+    display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: space-around;
+    align-items: center;
+    gap: px;
+
+
+
+}
+
+* {
+
+    color: white;
+} 
+
+
+.containers {
+
+background-color: grey;
+width: 100px;
+border: solid 1px white;
+height: 100px;
+
+}
+
